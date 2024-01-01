@@ -5,3 +5,4 @@ __pycache__/*
 old_gradcam.ipynb
 
 output (Faster_RCNN)/val/*
+output (Faster_RCNN)/test/*
